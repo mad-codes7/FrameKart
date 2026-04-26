@@ -1,0 +1,45 @@
+﻿Analyzing ar_app2...                                            
+
+   info - Unnecessary 'const' keyword - lib\models\furniture_item.dart:166:18 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\furniture_item.dart:178:18 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\furniture_item.dart:192:18 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\furniture_item.dart:204:18 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\furniture_item.dart:230:18 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\furniture_item.dart:244:18 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\furniture_item.dart:256:18 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\furniture_item.dart:306:18 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\furniture_item.dart:342:18 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\furniture_item.dart:356:18 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\furniture_item.dart:368:18 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\furniture_item.dart:380:18 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\furniture_item.dart:394:18 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\furniture_item.dart:406:18 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\furniture_item.dart:418:18 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\furniture_item.dart:432:18 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\furniture_item.dart:444:18 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\furniture_item.dart:456:18 - unnecessary_const
+warning - The value of the local variable 'featured' isn't used - lib\screens\home_screen.dart:295:11 - unused_local_variable
+  error - The named parameter 'favoritesService' is required, but there's no corresponding argument - test\widget_test.dart:6:35 - missing_required_argument
+  error - The named parameter 'isLoggedIn' is required, but there's no corresponding argument - test\widget_test.dart:6:35 - missing_required_argument
+  error - The named parameter 'onboardingSeen' is required, but there's no corresponding argument - test\widget_test.dart:6:35 - missing_required_argument
+
+flutter : 22 issues 
+found. (ran in 3.4s)
+At line:1 char:1
++ flutter analyze 
+--no-fatal-infos 2>&1 
+| Out-File 
+"c:\Users\Madhur\Des 
+...
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: (22 issues fou   
+ nd. (ran in 3.4s):    
+String) [], Remote    
+Exception
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 

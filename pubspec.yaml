@@ -33,6 +33,11 @@ dependencies:
 
   cupertino_icons: ^1.0.8
   model_viewer_plus: ^1.8.1
+  webview_flutter: ^4.13.0
+  shared_preferences: ^2.2.2
+  geolocator: ^13.0.1
+  geocoding: ^3.0.0
+  supabase_flutter: ^2.12.4
 
 dev_dependencies:
   flutter_test:
@@ -50,6 +55,15 @@ flutter:
 
   assets:
     - assets/models/
+    - assets/models/chair/
+    - assets/models/door/
+    - assets/models/table/
+    - assets/models/window/
+    - assets/models/desk/
+    - assets/models/shelf/
+    - assets/models/gate/
+    - assets/models/lamp/
+    - assets/models/sofa/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
