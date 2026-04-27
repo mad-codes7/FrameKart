@@ -1,0 +1,2 @@
+# This file is used for git change visibility testing.
+# You can safely ignore or delete it.
